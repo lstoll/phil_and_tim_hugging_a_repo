@@ -1,9 +1,3 @@
 # Phil and Tim hugging a repo.
-<br>
-<br>
-<br>
-### INSERT PICTURE HERE
-<br>
-<br>
-<br>
+![Phil and Tim hugging this repo](hug.jpg)
 Look at them hugging this repo. _Look at them_
